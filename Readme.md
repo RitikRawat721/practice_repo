@@ -44,5 +44,6 @@ some description on the topic ls -Hidden shows hidden files
   Step 3 >  It will give you the location where you can find the file
   Step 4 >  Private key is yours and yours only and public which is used to share with the other members of the project
 
-## git push [origin] [master]                     
-  
+## git push [origin] [main]                     
+  * use the above command to push your commited files in remote repository [without[]]
+  * and You will have your files uploaded in the remote repository
