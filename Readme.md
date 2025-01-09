@@ -37,5 +37,12 @@ some description on the topic ls -Hidden shows hidden files
   * commit takes a snapshot of the updates (like you make a save file in a game)
     [this is like a save file which you can load back to or track everthing done until this commit]
 
+### TO Upload upated commited files in..  remote repository (online) like in gitHub (making the project live)
+  * YOU NEED SSH key first
+  Step 1 >  -t rsa -b 4096 -C "YourEmail@gmail.com" in cmd or terminal
+  Step 2 >  Enter file in which to save the key (C:\Users\91799/.ssh/id_rsa): "NameOfthefile" where you password will be saved(leave it empty) 
+  Step 3 >  It will give you the location where you can find the file
+  Step 4 >  Private key is yours and yours only and public which is used to share with the other members of the project
 
+## git push [origin] [master]                     
   
